@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- nav_view_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="0dp" /> <!-- Đặt bán kính góc bo tròn thành 0 để tạo hình vuông góc -->
+    <solid android:color="@android:color/white" /> <!-- Màu nền của NavigationView -->
+</shape>
